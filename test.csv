@@ -1,0 +1,469 @@
+,title,company_name,location,via,description,extensions,detected_extensions,job_id,thumbnail
+0,Lead Data Engineer,AVIV Group,"Paris, France",via Smart Recruiters Jobs,"Company Description
+
+We are an equal opportunities employer and place where everyone is welcome. We strongly encourage people from minority backgrounds, LGBTQIA+, parents, and individuals with disabilities to apply. If you need reasonable adjustments at any point in the application or interview process, please let us know.
+
+In your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).
+
+We’re one of the world’s largest privately owned real estate tech companies and a subsidiary of Axel Springer. Our mission is to unlock everyone’s perfect place! Some of Europe’s best known digital real estate marketplaces and brands form part of our Group, they are: 🇫🇷 Meilleurs Agents, 🇫🇷 Groupe SeLoger, 🇧🇪 Immoweb, 🇩🇪 Immowelt, 🇪🇸 Housell and 🇮🇱 Yad2.
+
+We also invest in innovative business models which shape the future of how people buy, sell, rent or lend properties and hold minority participations in companies such... as: 🇬🇧 PurpleBricks, 🇩🇪 Homeday, 🇺🇸 Zumper and 🇺🇸 Parcel.
+
+Our ambition is to be the leading Employer in PropTech across Europe and this is a pivotal time to join us as we embark on this journey enabling us to help unlock everyone’s perfect place!
+
+Job Description
+
+What are the Marketplace Design teams about
+
+As the place where all real estate actors gather (home seekers, owners, intermediaries, etc…), the marketplace’s primary success factor is to provide the highest standards in terms of safety, truthfulness, relevance, efficiency and quality of the interactions between each of these actors. Many factors have an impact on the quality of the marketplace experience, the most prevalent is the users quality, seriousness, and engagement of the marketplace themselves, and the content and information (sale / rent listings, buyers projects descriptions, agencies presentations …) they produce by the means of this use.
+
+The Marketplace Design teams’ role is about designing and developing all curation, penalty/reward, gamification, rating, scoring, and matching mechanisms that ensure the engagement of our users is constantly pushed up, and the quality of our content is constantly improving. That’s what we call Marketplace Dynamics.
+
+As all of these capabilities are heavily data-powered, the Marketplace Design teams are also responsible for Data Governance, Modeling, Quality and the Data Platform and key Data-sets management for all of AVIV. We call that Data Operations.
+
+Your Responsibilities
+
+As the Lead Data Engineer for Owners & Seekers Metrics in the Data Operations, and working closely with the Product Manager and the Engineering Manager, you are responsible for the good development practices of your team, for the alignment with the company’s enterprise architecture, and to help the data engineers of your team to improve their technical and delivery skills.
+
+As such, you create, adapt, and enhance the quality of the most widely used datasets across Aviv.
+
+The composition and roles of Data Operations
+
+Together the teams make up around forty people, including:
+• An Agile Coach
+• Data Engineers
+• Data Quality Engineers
+• Data Analysts & Modelers
+• Devops Engineers
+• Enterprise & Solution Architects
+• Product Managers
+
+Here are some examples of projects that you will work on
+• Progressive migration of one of our local brand’s GCP Data stack to AWS
+• Aviv Group’s journey from multiple legacy data lakes toward a decentralized Data Mesh
+• Provide cross-european insights about the users of our websites and mobile application
+
+Our Data Stack
+• AWS, GCP
+• Spark, Glue, Apache Airflow, Kubernetes
+• Git, CircleCI, Jenkins, Argo CD, Grafana, VictoriaMetrics, Datadog
+• Java, Python, Scala
+
+Qualifications
+
+Qualifications
+• Successful experiences (at least 5 years) in data engineering, in different environments, with Spark.
+• Successful experience in leading a team of software engineers.
+• Up to date on the state-of-the-art design patterns and solution architectures.
+• Strong communication skills and proficiency in English.
+
+Additional Information
+
+Key Responsibilities
+• Contribute to the entire design and development cycle of our components (analysis, architecture, development, deployment).
+• Continuous improvement of the tools used by the tech team to support the growth of Marketplace Dynamics within Aviv Group (automation, continuous integration, automated tests, monitoring, etc.).
+• Responsible for the quality of the code delivered by its team.
+• Assess the strengths and weaknesses of the other engineers, and suggest areas for improvement.
+• Main technical point of contact for the team.
+
+We are looking for an individual who
+• Can build and maintain large, complex data sets that meet functional / non-functional business requirements
+• Can participate in the building of the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Cloud’s ‘big data’ technologies
+• Can identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+• Can work with data and analytics experts to strive for greater functionality in our data systems
+• Thinks agile: direct communication, adaptation, fail fast, continuous improvement.
+• Is a driving force behind high impact business/customer/architecture improvements, and to do so, deeply understands the product served by the technology.
+• Is a Software Craftsman, and understands the reasoning behind it.
+• Is rigorous, curious, autonomous and positive minded.
+• Loves to share knowledge and is open to new ideas.
+• Lives and breathes GDPR, security and privacy topics.
+• Is both customer-oriented and data-driven","['il y a 4 jours', 'À plein temps']","{'posted_at': 'il y a 4 jours', 'schedule_type': 'À plein temps'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXIiLCJodGlkb2NpZCI6IjlJZVpCNVNMbzh3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnVUdGeWFYTXNVR0Z5YVhNc1NXeGxMV1JsTFVaeVlXNWpaU3hHY21GdVkyVSIsImhsIjoiZnIiLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRbkJSTlhBeVdUSnFZeTFHWnpKMWFYVnVZbmhsVFZwUFIxSm5VVjlzT1UxVWQzQm1OV1JWVkRoeldHVnhOMDVMYUhjdFJEUmhWMEpSZEhKS1pUQjBTVlpPYjNCcE5rUXRaMk5oV1RaNVMwTllUbVZ3UjJWeU5uZFpVMXBDU2xSaFkyZFpXVTVEWjFCeUxUWXdUVEptV2psSk5VRTVZbVZzTmxRNFJGVmxjMkV6T1MxSlkyaFZTM2RyU0ZOQ2FrRXhRMHMzV1dkb2J6Sm1XVkozRWhkTGRuaERXVGh5VUVoS2VtVnJVRWxRTUhNMlJqaEJNQm9pUVVSVmVVVkhaV2RsTlV0Q09FNHRka05OZEZGdVVtbElUbGxhUjBWRldERjFVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9UG9zdHVsZXIgc3VyIFNtYXJ0IFJlY3J1aXRlcnMgSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9BVklWR3JvdXAvNzQzOTk5ODU1NTg1ODYxLWxlYWQtZGF0YS1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,
+1,Data Engineer,OVRSEA,"Paris, France",via Lever,"About us
+
+Our mission: to simplify international transportation through technology and data! ✈️
+
+Founded in 2017, Ovrsea is a new generation freight forwarder that uses technology to simplify and optimize international transportation for companies. We support more than 600 companies such as Engie, Vinci, Devialet, Sézane or even Nuxe in more than 60 countries in their international freight transport.
+
+We allow our customers to manage all their transport issues in a few clicks from our web interface, from quotation to invoicing, by digitizing the entire transport tracking experience. We have also developed an in-house platform to facilitate the operational management of our customers’ transports in order to best meet their needs in record time.
+
+Ovrsea, a fast-growing company …
+
+The year 2021 has been strategic for Ovrsea: Since January 2021, we have joined forces with the Bolloré Group to accelerate our development and we have recruited 50 people.
+
+2022 promises to be an even more... challenging year with the recruitment of 100+ people, the opening of 4 new international offices and thus expand on the international market! Moreover we plan to triple our revenue for the third year in a row.
+
+Are you ready to join us and be a part of our development? 🚀
+
+Job Description
+
+The Data team:
+
+Composed of three people and in full growth in the year to come, the Data team's main objectives are to serve our various teams in order to free up their work & make them more efficient and productive, but also to work on long-term AI projects to unlock growth levers for the company.
+
+This includes :
+-Providing business teams with key data and indicators to monitor their activity and their customers’ health, and automate certain tasks to allow them to focus on higher added value ones
+-Building AI algorithms to take our products to the next level: price and transit time predictions, automated document parsing, scoring and attrition models, etc.
+
+The Data team is associated with the Tech team that develops the customer platform as well as the internal transportation management platform. Through this internal platform, the Software Engineers have the chance to develop an internal product: it allows them to iterate much faster (several deployments per day), to test many things and to have some freedom of action.
+
+What does it mean to be a Data Engineer at OVRSEA?
+
+Being a Data Engineer at Ovrsea means being the guarantor of the Data technologies. In other words, you will be in charge of consolidating and scaling our stack, while ensuring we stick to the highest standards in terms of tools & code practice. Furthermore, you will have the unique opportunity to shape the Data Engineering activity at Ovrsea for the years to come, given an exciting context of hypergrowth (importing and exporting goods in more than 60 countries) 🏗️ ✈️
+
+Here are the missions that we propose to you (non-exhaustive list):
+
+Stack & Practice (50%)
+
+-Improve our codebase’s structure and composition: replicability, no redundancy, observability
+-Speed up computations, reduce downtime, reinforce our services’ robustness: collaborating with Product & Tech will also be fundamental to anticipate any release impact on the Data
+-Build tests and sanity checks frameworks in order to challenge the code and the data and serenely release our models
+
+DevOps & Site Reliability (30%)
+
+-DevOps perspective: reinforce our CI/CD pipelines to reduce the iteration loop and release better and faster
+-Site Reliability perspective: create secure and accurate workflows to serenely provide data to external users - clients, followers
+
+Evolution (20%)
+
+-Keep a close eye on the state of the art: identify the most adequate practices and tools for us, and the necessary resources for any development
+-Propose efficient development frameworks to test a solution & release it if satisfactory
+
+At Ovrsea, we are committed to an inclusive recruitment process and to fostering diversity within our teams",['À plein temps'],{'schedule_type': 'À plein temps'},eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJCdFBHZW9mb29mUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1VHRnlhWE1zVUdGeWFYTXNTV3hsTFdSbExVWnlZVzVqWlN4R2NtRnVZMlUiLCJobCI6ImZyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28vZm9yZXNlYS10ZWNobm9sb2dpZXMvN2I2YWMxODMtMTVmYi00NDliLWI5ODMtMjI3YzA5MjJmZWYzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+2,Data Engineer,Tweag,"Paris, France",via Greenhouse,"Notice as of 1 July 2022:
+The Tweag team has been joined by many amazing engineers this year. As of mid-summer, we have already met our hiring goals for the current period, so we are not currently interviewing candidates. However, you are encouraged to continue to apply as we will be resuming our hiring in Fall 2022, with the goal of onboarding new team members around December 2022.
+
+Tweag is a software innovation lab with a global team of thoughtful and friendly engineers, working together to build better software by applying mathematics, computer science and the methods of open source.
+
+Our high-profile community projects and contributions are driven by experience helping deep tech startup clients quickly scale their engineering performance and execute on high-risk, high-reward projects with confidence.
+
+We are big on composable software: functional, typed, immutable. In our data engineering projects, we apply these principles to build tooling for efficient, reproducible and... maintainable systems in complex industry sectors such as biotech, retail, finance and autonomous vehicles.
+
+We're looking for exceptional data engineers to join our team and help us move the industry forward. You would work either remotely (from almost any country), or on-site at our office in the centre of Paris. Most of our team works remotely, and has done since long before the pandemic.
+
+Who are you?
+
+Your skill set will grow constantly with each new client project, so consider applying if you are inquisitive, willing to fail often and adapt quickly. You should be comfortable with feeling out of your depth and rapidly becoming an expert in a new field.
+
+An open mind towards functional programming and reproducible software systems is a bonus. Don't feel like knowledge in these areas is a prerequisite.
+
+As an engineer at Tweag, you
+• identify and quickly learn new skills and techniques needed to work in new areas,
+• work autonomously, organising and clearly communicating your plans,
+• value high-quality and elegant software,
+• enjoy using principles from one area to help solve problems in another,
+• cultivate good relationships with clients and with colleagues,
+• can explain and discuss complex topics,
+• are highly competent in at least one programming language (Scala, Python, Java, C++, Haskell, Clojure, or others),
+• have a good understanding of developer tools and techniques such as Git, GitHub/GitLab, CI, testing, Nix and Docker.
+
+A typical data engineering candidate has, in addition, experience with some or all of the following:
+• putting data workflows into production: cloud environments, databases, scheduling and workflow tools such as Apache Airflow, Nextflow, ...,
+• large-scale data architectures such as data warehouses, data lakes, and data lakehouses. Experience with Databricks, Snowflake, or other cloud data platforms is a plus.
+• event-driven systems and stream processing techniques using tools such as Apache Spark, Flink, or Beam
+• a decent understanding about a data scientist’s work, including machine learning and different modeling techniques.
+• building dashboards and data visualizations
+
+Please note that these requirements are only a guideline. Our engineers are delightfully unique, and so are you: we believe that outstanding teams have diversity of background and thought. More than the qualifications listed on your resume, if you're excited to join a fully remote global team that's working to have a positive impact on the software engineering community then we encourage you to apply even if your experience doesn't align perfectly to what is listed above.
+
+What will you be doing?
+
+Engineers at Tweag primarily work in small groups embedded in a client team, collaborating with the client’s engineers and each other. In parallel, Tweag engineers connect and collaborate with each other across project boundaries, teaching, learning and improving our many research and community projects.
+
+Benefits
+• The chance to work on interesting problems and work with and learn from amazing people,
+• a flexible work environment, based either remotely or in our Paris office,
+• the opportunity to work on your own innovative projects, if they align with Tweag’s goals,
+• support to grow into other specialist areas",['À plein temps'],{'schedule_type': 'À plein temps'},eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJVVkMyNUhRTWVIUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1VHRnlhWE1zVUdGeWFYTXNTV3hsTFdSbExVWnlZVzVqWlN4R2NtRnVZMlUiLCJobCI6ImZyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBHcmVlbmhvdXNlIiwibGluayI6Imh0dHBzOi8vYm9hcmRzLmdyZWVuaG91c2UuaW8vdHdlYWcvam9icy81NjAxMTc1MDAyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+3,Lead Data Engineer - Data Platform,Deezer,"Paris, France",via Smart Recruiters Jobs,"Company Description
+
+With 90 millions of tracks and a presence in 180 countries, Deezer is the most personal music streaming service in the world.
+
+Behind the code and the pixels is our team of 600 music lovers, and we’re building something incredible together. Want in? If you’re looking for an adventure, not just a job, and you fancy seeing ideas come to life in a heartbeat, you’re in the right place.
+
+Deezer at a glance
+• 16M active users
+• 180+ countries
+• 90M tracks
+• 100M playlists
+• 50+ Deezer Editors
+
+Our values
+• Just Hack it! | We dare to challenge the status quo and believe innovation is part of our DNA.
+• We are P.O.P. | We are Passionate + Optimistic + Proud. Nothing can stop us.
+• Believe in Better | We believe in better product, better speed and better people.
+• One for All | And all for one! We stick together and trust each other.
+
+Job Description
+
+The team
+
+The Data Platform mission is to provide Deezer teams with trusted data, innovative data solutions that are easy... to use and understand. It plays a key role, being responsible for the storage, processing, and exploration of all data collected at Deezer.
+
+We work on processing terabytes of data each day, enabling data scientists and analysts to retrieve valuable information from historical and real-time data in a resource-effective way.
+
+As a Team Manager you will:
+• Lead a talented and motivated technical team of 4 data engineers
+• Ensure the technical work is following the industry standard
+• Inspire, drive and develop the talents
+• Work closely with the Product managers and the Engineering Managers
+• Work closely with the technical leaders of every stacks
+• Contribute and follow-up the current initiatives your team is working on
+
+More especially as the leader of the Data Platform team you will:
+• Ensure the quality of the data platform
+• Make sure it answers the requirements of its users
+• Ensure the quality of our code and the scalability of our architecture
+• Contribute to the Community of Practice to engage data users
+• Ensure our data solutions are cost effective with respect to the FinOps state-of-art
+• Work closely with the Head of Data Engineering
+
+Qualifications
+
+What we are looking for:
+• At least 4 years experience in building and maintaining data engineering solutions
+• A first experience in people management (internship, apprenticeship, mentor-ship, team manager)
+• Ability to interact with stakeholders with different levels of technical expertise
+• Must be proactive, self-driven and organised
+• Good knowledge with cloud architectures (Google Cloud Platform preferable) and big data technologies
+• Good engineering skills (code design and quality, tests, reviews, logging, monitoring, continuous integration, DevOps)
+• Knowledgeable in at least one programming language within Python or Scala
+• Fluent in English and French
+
+Additional Information
+
+Remote policy
+
+You can work up to 10 days per month remotely (= 50% of the time)
+
+LIFE @ DEEZER PARIS
+• Start-up environment and philosophy.
+• Highly motivated and product-focused people ready to drive innovation.
+• In-house Deezer Sessions with your favourite artists, gig tickets.
+• Hackathons & meetups.
+• Friday drinks, summer and winter parties.
+• A stocked kitchen with free drinks and snacks.
+• Areas to relax and collaborate with beanbags, guitars and table football.
+• An ‘at home’ vibe, with great outdoor spaces.
+• Gym access, with lunch-time yoga, pilates and thai boxing classes.
+
+If you feel like this is the right opportunity for you, press play!
+
+We are an equal opportunity employer","['il y a 4 jours', 'À plein temps']","{'posted_at': 'il y a 4 jours', 'schedule_type': 'À plein temps'}",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXIgLSBEYXRhIFBsYXRmb3JtIiwiaHRpZG9jaWQiOiJfaU1aWERQMmpiMEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1VHRnlhWE1zVUdGeWFYTXNTV3hsTFdSbExVWnlZVzVqWlN4R2NtRnVZMlUiLCJobCI6ImZyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBTbWFydCBSZWNydWl0ZXJzIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnNtYXJ0cmVjcnVpdGVycy5jb20vRGVlemVyLzc0Mzk5OTg1NTU2MzI2OS1sZWFkLWRhdGEtZW5naW5lZXItZGF0YS1wbGF0Zm9ybT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,
+4,Data Engineer,Crossing Minds Recruiting,"Paris, France",via Lever,"Crossing Minds is the smartest platform powering perceptive recommendations that drive online discovery and engagement. Founded and led by world-renowned AI pioneers and powered by the latest advances in deep learning, Crossing Minds instantly delivers precise, session-based recommendations that don’t infringe on or jeopardize customer privacy.
+
+At Crossing Minds, we rely on our dynamic team of engineers to solve the many challenges and puzzles that come with our rapidly evolving technical stack. We’re seeking a data engineer who is ready to work on the most advanced recommendation platform in the world and build real-time data architectures, enabling true personalization for every customer-facing business.
+
+US Employee Benefits:
+75% coverage on Medical, Dental, and Vision insurance. As well as 100% coverage on Basic Life!
+Employer-matched 401(k)
+20-day PTO
+9-days of paid holiday
+Company shutdown from 12/24 - 01/01
+Professional education opportunities
+Voluntary Travel Policy
+Visa... support, if needed
+
+Canadian Employee Benefits:
+HSA $2500/ annually
+20-day PTO
+7-days of paid holiday
+Company shutdown from 12/24 - 01/01
+Professional education opportunities
+Voluntary Travel Policy
+Visa support, if needed
+
+Location: Preference Toronto, San Francisco or Paris
+Legal fees + $5,000k relocation stipend
+
+The Crossing Minds team prides itself on our team culture and values. Our differences are valued, and our authenticity is celebrated. We are committed to nurturing an environment of mutual respect where equal employment opportunities are available to all","['8\xa0min', 'À plein temps']","{'schedule_type': 'À plein temps', 'commute_time': '8\xa0min'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJvRUVkR0hfZFl0c0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1VHRnlhWE1zVUdGeWFYTXNTV3hsTFdSbExVWnlZVzVqWlN4R2NtRnVZMlUiLCJobCI6ImZyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28vY3Jvc3NpbmctbWluZHMvZTA4YTA1MzktNjg5Ny00ZDhmLWE5OGItYzE1NjVlNjlmMDFhP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,
+5,Senior Data Engineer,SENSE Group LLC,"Paris, France",via CenLA Now Jobs,"Job Description:
+
+As a Data Engineer you will be-
+
+Building and expanding data platform,
+Designing efficient patterns to acquire and store data from multiple sources,
+Implementing complex acquisition and transformation workflows,
+Building smart data models to make data accessible to serve our product teams and our BI, Insights and data science teams while minimizing the costs,
+Developing tools to help our data scientists industrialize machine learning projects,
+Working on data quality & reliability to ensure we provide trustable metrics to the whole company
+
+Required Qualifications:
+
+3+ years of experience as a Data Engineer
+Experience with Python, Git, SQL for ETL / ELT
+Strong in scripting and programming skills
+Strong knowledge of AWS stack
+You speak English. (Working language in the office is English)
+Bonus: Knowledge of Docker, Airflow is an added advantage
+Motivated to work at the intersection of mobile apps, marketing and AI
+
+Job Types: Full-time, Permanent
+
+Pay: 45,000.00€ ... 65,000.00€ per year
+
+Ability to commute/relocate:
+Paris (75): Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+This job is Partial Remote. Would you be comfortable with Hybrid work environment?
+
+Experience:
+Data Engineering: 3 years (Required)
+Python, Git & SQL: 3 years (Required)
+AWS: 3 years (Required)
+Scripting & Programming: 3 years (Required)
+Docker & Airflow: 2 years (Preferred)
+
+Language:
+English (Required","['il y a 4 jours', '45\xa0k\xa0€ par an', 'À plein temps']","{'posted_at': 'il y a 4 jours', 'schedule_type': 'À plein temps'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciIsImh0aWRvY2lkIjoiejdWRENJTnFCRVFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdVR0Z5YVhNc1VHRnlhWE1zU1d4bExXUmxMVVp5WVc1alpTeEdjbUZ1WTJVIiwiaGwiOiJmciIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJQb3N0dWxlciBzdXIgQ2VuTEEgTm93IEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmNlbmxhbm93LmNvbS9qb2JzL3Nlbmlvci1kYXRhLWVuZ2luZWVyLXBhcmlzLzczMjk4OTk0My0yLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,
+6,Data Engineer,Wakam,"Paris, France",via Welcome To The Jungle,"Au sein de l’équipe Project Data du Data Office, le Data Engineer participera à la construction de l’architecture data, en concevant et développant des composants logiciels, des flux d’intégration de données autour de nos produits data sur notre asset End To End Data Factory. Les produits Data sont mis en œuvre dans une approche product management. Afin d’avoir un écosytème data performant et innovant, le Data Engineer sera amené à tester de nouveaux outils ou de nouvelles approches lors de phase de Proof Of Concept. Nous travaillons d’un écosystème technique Azure et Snowflake.
+
+Description du poste – Au sein de l’équipe projet du Data office :
+• * Construire et faire évoluer, en collaboration avec le data architecte et le Product Owner, la dataplatform Wakam
+• Mettre en place des services de collecte, de traitement et d’exposition de la donnée. Les collectes et expositions pouvant être multimodales, vous serez amenez à utiliser différentes technologies et méthodes (ETL, Custom Dev... API, nouveaux outils…).
+• Monter en compétence et appréhender de nouveaux outils et de nouvelles méthodes
+• Mettre en qualité les données collectées et préparer des datasets exploitables par les utilisateurs ou des services consommateurs de données (Front, …)
+• Participer à la conception et à l’évolution des flux de données mis en œuvre entre Wakam et ses partenaires
+• Travailler en méthodologie agile, en collaboration avec les Products Owner et les Business Analyst, détailler les US en tâches, estimer la complexité et les efforts d’implémentations
+• Garantir la qualité et les performances de ces développements en mettant en place des stratégies de test automatique et de déploiement continu
+• Accompagner le Product Owner et les Business Analysts lors des recettes des flux et des nouveaux composants de l’architecture data
+• Rédiger des spécifications techniques et documenter les développements réalisés
+• Être force de proposition et proposer des solutions pour améliorer de façon continue le End to End Data Factory.
+• Participer au maquettage ou à la mise en place de Proof of concept dans le cadre de l’activité de R&D
+• Veille technologique
+
+✯ Le Profil
+
+Expériences :
+• Minimum 5 ans d’expérience.
+• Etre force de proposition, créatif et innovant
+• Porter un grand soin à la qualité et à la performance de ses développements
+• Une vraie envie de travailler au développement d’une plateforme « Data Centric » dans Azure et Snowflake et utilisant les technologies les plus innovantes.
+• Excellente maitrise des technologies suivantes :
+• Azure (LogicApp, Azure Service Bus, Azure ML …)
+• Python
+• SQL
+• DevOps (Azure DevOps, VS Code, GIT, CI/CD …)
+• La maitrise d’un ETL serait un +
+• Outils de tests unitaires et de tests de charges
+• Une expérience des plateforme Databricks, Snowflake et Informatica Cloud serait un plus indéniable.
+• Bon communicant. Pédagogue. Capacité à expliquer et vulgariser.
+• Pro-actif, autonome et volontaire.
+• Travail en équipe pluridisciplinaire (techniques, fonctionnelles, métiers)
+• Aptitude à évoluer dans une organisation en cours de structuration. Souplesse et adaptabilité.
+
+Compétences :
+• Agilité
+• Anglais +
+• Autonomie ++
+• Aisance relationnelle
+• Bonne capacité à appréhender rapidement de nouveaux outils.
+• Maitrise de SqL
+• La connaissance des environnements Azure, Databricks, Snowflake et ETL serait un avantage apprécié
+• La connaissance d’outils et libraries de datavisualisation est un plus
+Process de recrutement
+• Echange avec Audrey, Talent Acquisition Expert
+• Echange technique avec Cédric, BI Project Manager
+• Echange avec l'équipe
+• Echange avec Raphaël, Chief Data Officer
+• Echange RH avec Amandine - Chief People Officer et/ou Laura - Head of Talent
+
+=> Welcome @Wakam 🙌
+
+Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
+
+You have the Wakam mindset? Join us!
+More about us
+
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are bold and like challenges (yeah yeah! That one word that all startups have at the tip of their tongues), then the Wakam adventure might be made for you! Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
+
+Mindset compatibility with our ‘Free to Impact’ culture:
+• Think big
+• Biased for action
+• Curious and eager to learn
+• Can say no and find solutions
+• Aims for the moon (but please don’t stick on the moon)
+• And above all: have fun working together 🤜🤛 !
+• Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
+• With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
+• Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
+• Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
+• Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
+
+What happened in 2021 @Wakam","['il y a 5 jours', 'À plein temps']","{'posted_at': 'il y a 5 jours', 'schedule_type': 'À plein temps'}",eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJ5b2l1bll5ZnJMWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1VHRnlhWE1zVUdGeWFYTXNTV3hsTFdSbExVWnlZVzVqWlN4R2NtRnVZMlUiLCJobCI6ImZyIiwiZmMiOiJFc3dCQ293QlFVRjBWbXhpUTFOM1RVdHRiemh4VUZkcFMwbDRXVkJNUTE4eVpFOW5PVUk1ZVd0bGFFRk1iMmxtZEhWVVNHaHVRMkZSWW5WT1RGOXpSV05hTm5aZlJFTlRWRWxEWlVaeVFYaHhjbTlaZVdoeFNsOWhkbWt3VG5aU05WRkdWVGR6VlVsVVpWRkpaMEY1WVZSQ1NXMU9kbkJNT0VkcGRrOUJiamQyZWxCbWVXbGZaekEyVVVoV05rUm5lbGtTRjB0MmVFTlpPSEpRU0VwNlpXdFFTVkF3Y3paR09FRXdHaUpCUkZWNVJVZG1lRzFhUVZGQmFXaDVhR2hFVkVVdFlUTnNiMUJMVWsxMGJqWjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IlBvc3R1bGVyIHN1ciBXZWxjb21lIFRvIFRoZSBKdW5nbGUiLCJsaW5rIjoiaHR0cHM6Ly93d3cud2VsY29tZXRvdGhlanVuZ2xlLmNvbS9mci9jb21wYW5pZXMvd2FrYW0vam9icy9kYXRhLWVuZ2luZWVyLWFsbC1nZW5kZXJzX3BhcmlzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50ela9DJ9kj6pTVnfPwuL_Y0IY2sxuPjPq46ixu4&s
+7,Consultant Big Data - Data Engineer H/F,Inventiv IT,"Levallois-Perret, France",via HelloWork,"Inventiv IT recherche …
+
+Description
+Et SI vous découvriez une entreprise créée en 2008 autour de l'humain et l'envie d'accompagner différemment ses clients.
+
+Vous recherchez une entreprise
+- Avec un fonctionnement horizontal ? Nos consultants ont des responsabilités au sein de nos4 pôles centraux Entreprise Digital, DATA, CLOUD et FACTORY.
+- Référencée au sein des grands comptes du CAC 40, et impliquée sur toutes les phases de projets passionnants ? Retrouvez les interviews des Inventifs sur LinkedIn avec #LesInterviewsDesInventifs.
+- Rejoignez Inventiv IT !.
+
+Vous êtes au coeur de nos priorités, nos actions en sont le reflet : des activités sportives et ludiques hebdomadaires, un accompagnement par un Coach tout au long de votre carrière, une flexibilité d'horaires et du télétravail, qui apportent un équilibre de vie professionnelle et privée.
+
+Vos compétences et ce que nous attendons
+- Maîtrise des technologies Big Data les plus courantes Pig, Hive, Spark, Sqoop, Hbase, Kafka... Oozie.
+- Expérience autour des solutions Hadoop, Cloudera (Hortonworks), Databricks, Snowflake, DataStax.
+- Maîtrise d'au moins un des langages de développement Java, Python, R, PySpark, SparkR, Scala.
+- Maîtrise des bases de données NoSQL les plus courantes : Cassandra, Hbase, Dynamo DB, Neo4J, Mongo DB.
+- Connaissance des environnements Unix, Windows et de la virtualisation (VMware, HyperV, XenServer, VirtualBox...).
+- Intervention en clientèle sur des projets Big Data stimulants.
+- Participation au développement de solutions internes.
+- Conception et mise en oeuvre de plateformes Big Data performantes.
+En résumé ...
+• Levallois-Perret - 92
+• CDI - Télétravail partiel
+• Secteur informatique • ESN
+• Bac +5
+Publiée le 08/10/2022. Réf : d37eb1fde15ba8305c932218d8ee8d23","['il y a 1 jour', 'À plein temps']","{'posted_at': 'il y a 1 jour', 'schedule_type': 'À plein temps'}",eyJqb2JfdGl0bGUiOiJDb25zdWx0YW50IEJpZyBEYXRhIC0gRGF0YSBFbmdpbmVlciBIL0YiLCJodGlkb2NpZCI6InMxMGhaMGRjMFdnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnVUdGeWFYTXNVR0Z5YVhNc1NXeGxMV1JsTFVaeVlXNWpaU3hHY21GdVkyVSIsImhsIjoiZnIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiUG9zdHVsZXIgc3VyIEhlbGxvV29yayIsImxpbmsiOiJodHRwczovL3d3dy5oZWxsb3dvcmsuY29tL2ZyLWZyL2VtcGxvaXMvMjY3ODEyMzAuaHRtbD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhCRskQQnmymfcJABD_WduMAdjWDyUDNw4Napl1E&s
+8,Senior Consultant - Data Engineer - H/F/D,Capco,"Paris, France",via Ai-Jobs.net,"Data Engineer GCP H/F/D Qui sommes-nous ? Capco est un cabinet international de conseil en management et en technologie spécialisé dans la transformation des services financiers, avec 32 bureaux répartis entre l’Amérique du nord, l’Amérique du sud, l’Asie et l’Europe et regroupant plus de 7 000 collaborateurs, dont 170 à Paris. Nos équipes associent capacité d’innovation et expertise métier dans le but d’offrir à nos clients une forte valeur ajoutée et un impact différenciant, de la stratégie à l’exécution. Rejoindre Capco, c'est rejoindre une organisation qui s'engage pour un environnement de travail inclusif où vous êtes encouragé à être vous-même (#BeYourselfAtWork). Nous reconnaissons l'individualité, la diversité et l'inclusion, comme des caractéristiques essentielles au succès de notre cabinet. Nous sommes de nouveau certifiés Great Place To Work et figurons dans le Palmarès 2020. Votre rôle Capco recherche des ingénieurs de données afin d’aider nos clients bancaires et autres... institutions financières à créer des produits que les clients aiment et qui sont un succès commercial pour nos clients. Au sein de la direction Tech, la Data Factory a pour objectifs de piloter, définir, déployer et opérer les meilleures solutions technologiques répondant aux cas d’usage data et d’automatisations de processus de la banque au travers de plateformes. Également, la Data Factory contribue au développement des produits, à la cristallisation et à la diffusion des pratiques au sein des Squads sur les usages data.Au sein de la Data Factory, vous intégrez la squad Data Platform en tant que Data Engineer GCP (Google Cloud Platform). Plus concrètement, vos activités sont les suivantes : Réaliser des analyses et des études d’impacts en amont des développements Concevoir des solutions en respectant les bonnes pratiques de développement Réaliser les développements des évolutions des applications DATA Assurer le support aux testeurs lors des phases de recette Documenter les solutions techniques réalisées Expérience et compétences requises : Titulaire d’un diplôme de formation supérieure type école d'informatique ou école d’ingénieur, vous avez une expérience de 3 ans minimum développements sur la platform GCP notamment BigQuery, Looker et Data Proc, au sein d’une Tech company (Fintech), d’une agence et/ou d’un cabinet de conseil. Plus de 6 ans d’expériences en data engineering / data management / ingénierie de données Ingénieur de données ayant une très bonne maitrise de Python, Pandas, SQL, Spark et DBT Bonne expérience sur Kafka comme source de données Très bonne connaissance d’une chaine de CI/CD avec Teraform, Gitlab, Kubernetes Bonne connaissance de l’agilité (framework scrum) Bonne capacité à appréhender les besoins métiers Proactif, autonome, rigoureux Capacités d’écoute, d’analyse et de synthès Environnement technique : GCP, BigQuery, Looker, Python, Pandas, SQL, Spark, DBT, GitLab, Teraform, Kubernetes Pourquoi rejoindre Capco ? Nous travaillons avec plus de 80% des plus grandes institutions financières mondiales, nous accompagnons nos clients sur des projets qui vont transformer le secteur des services financiers et bancaires. Chez Capco, nous offrons : Une culture basée sur l’innovation et la création d’impact pour nos clients et employés. Des possibilités d'apprentissage continu pour vous aider à acquérir de nouvelles compétences ou à approfondir votre expertise existante Une structure plate et non hiérarchique qui vous permet de travailler avec des partners et directement avec nos clients Une culture diversifiée, inclusive et méritocratique","['il y a 3 jours', '76\u202f833 à 150\u202f000 par an', 'À plein temps']","{'posted_at': 'il y a 3 jours', 'schedule_type': 'À plein temps', 'salary': '76\u202f833 à 150\u202f000 par an'}",eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29uc3VsdGFudCAtIERhdGEgRW5naW5lZXIgLSBIL0YvRCIsImh0aWRvY2lkIjoiNVdlZkVMeE14YVVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdVR0Z5YVhNc1VHRnlhWE1zU1d4bExXUmxMVVp5WVc1alpTeEdjbUZ1WTJVIiwiaGwiOiJmciIsImZjIjoiRXN3QkNvd0JRVUYwVm14aVEzSkplRGRrYzNFMVQxRndRemRsWjBGVFN5MUlTMTg1Y0VaV1JtVk9VM2xNZWtremJGWnlibWxpYlZGSmFYZERiakJKYzJwdlUyVTVjMlJxZFU1RlYzSlhVVmxsT0ZFMGIyMVFRa1JNVGxGR2FsWk5jVkY2TmpKQ01VTkRkbWx1TmtSWFdEaGFNblJUV1ZOTGJXNDRibk51VGtSbWNEWmZSak5yTWtaaWFtaHdlRXhmYWxVU0YwdDJlRU5aT0hKUVNFcDZaV3RRU1ZBd2N6WkdPRUV3R2lKQlJGVjVSVWRqTFZoNFFraEdia040UzFKUGNtaHBlbGhVWTA5VlR6TmxSa3huIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJQb3N0dWxlciBzdXIgQWktSm9icy5uZXQiLCJsaW5rIjoiaHR0cHM6Ly9haS1qb2JzLm5ldC9qb2IvMjkyMzQtc2VuaW9yLWNvbnN1bHRhbnQtZGF0YS1lbmdpbmVlci1oZmQvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU6YbG6SDm7JlyFvFzUyluGjNRRg-A0exvvA9QK0&s
+9,Lead Data Engineer,Alma,"Paris, France",via Greenhouse,"What you’ll do
+We are looking for a Lead Data Engineer to join our team. You will be in charge of leading our data engineering team and owning our data stack.
+
+Directly reporting to the Head of Data, your mission is to ensure that Alma is equipped with the best and most reliable modern data stack. By managing the data engineers, you will have both management and tech lead responsibilities.
+
+The responsibilities of the Data Engineering team are:
+• Own the data stack: optimize usage, prepare to scale and always be ready to explore new and innovative solutions to help the company.
+• Be responsible for all data pipelines flowing in or out of our Data Lake and Data Warehouse: ensure that pipelines are reliable and implement automated monitoring solution.
+• Design and improve our Data Lake and Data warehouse model. The key to help the company scale is to ensure that our data models remain reliable throughout time.
+• Ensure that our data practices are always in line with the best trends of... the industry.
+• Actively share knowledge and document insights to support continuous team improvement and collaboration
+
+Our Data Tech stack includes:
+• Google Cloud Platform
+• PostgresSQL for Google Cloud
+• Bigquery
+• Composer (Google Managed Airflow) running Python jobs
+• Fivetran
+• Terraform
+
+You may be a fit if…
+• You are a real team player enjoying collaboration and working in Pair/Mob Programming
+• You are able to fully own a project. We voluntarily choose not to have project managers
+• You want to work in a fast, high-growth scale-up environment
+• You have interest in understanding and solving Business data challenges
+• You are comfortable in English
+
+Practical information:
+• Most of our team members are working full-remote. You can choose to do so as well, to join our offices in Paris, Rennes and Nantes or have a mix of the two
+• Offices in Paris (10ème arrondissement), Rennes and Nantes
+
+Benefits
+• Health insurance (Alan Green contract): 100% paid by Alma, including the family pack
+• Life insurance (Alan contract): 100% paid by Alma
+• Lunch vouchers: 10€/day with 50% paid by Alma
+• Transportation: 50% of the monthly subscription paid by Alma
+• Fruits: free fresh fruits baskets several times a week in the office
+• Nursery: a corporate nursery 100% paid by Alma
+• Sport: partnership with ClassPass, 40% of annual subscription paid by Alma
+• Holidays: 5 weeks of holidays + RTT
+• Work from other offices of Alma: possibility to spend 1 week per semester working in any office of Alma of your choice to connect with local teams. Travel and accommodation costs 100% paid by Alma (from Monday to Friday)
+
+Interview Process:
+• Screen Call with HR
+• 1/2 H call with a data engineer
+• Case study
+• 1h technical Interview with a Data engineer
+• 1h call with Hiring Manager",['À plein temps'],{'schedule_type': 'À plein temps'},eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXIiLCJodGlkb2NpZCI6ImRfUlJnZXR1OG53QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnVUdGeWFYTXNVR0Z5YVhNc1NXeGxMV1JsTFVaeVlXNWpaU3hHY21GdVkyVSIsImhsIjoiZnIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiUG9zdHVsZXIgc3VyIEdyZWVuaG91c2UiLCJsaW5rIjoiaHR0cHM6Ly9ib2FyZHMuZXUuZ3JlZW5ob3VzZS5pby9hbG1hMzEvam9icy80MDY1MDI4MTAxP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqd_xIqEMEAo9ml87FNu-FzcQHfSz7BtJVousb2t4_r6GX8Zvu0eH7A&s
