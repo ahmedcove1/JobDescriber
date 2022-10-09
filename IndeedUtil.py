@@ -78,8 +78,8 @@ class googleUtil():
         date = df['detected_extensions'].apply(self.trytogetinfo).apply(self.parseInt)
         df_location = df["location"]
         link = df["via"]
-        date.merge(df[['title',"via",'location','company_name']])
-        print(date)
+        res = df[['title',"via",'location','company_name']].merge(date,left_index=True, right_index=True)
+        print(res)
         return df
     
 
