@@ -1,0 +1,670 @@
+,title,via,location,company_name,description,detected_extensions
+0,Data Engineer - Senior Associate (F/H),via SmartRecruiters Job Search,"  Paris, France   ",Publicis Groupe,"Description de l'entreprise
+
+Publicis Sapient agit d epuis plus de 30 ans au service de la transformation digitale des entreprises. Notre expertise unique regroupée sous l’acronyme SPEED, Stratégie et Conseil, Produit, Expérience, Engineering et Data combinée à notre connaissance approfondie du secteur, nous permet de créer, avec nos clients, des produits et des expériences innovants centrés sur la valeur qu’ils délivrent à leurs clients.
+
+Notre approche agile, axée sur les données et les dernières technologies, permet de faire face au changement, en plaçant le digital et ses nouvelles manières de travailler au cœur de l’activité. Avec plus de 21 000 collaborateurs à travers 50 bureaux dans le monde, Publicis Sapient est le pôle de transformation digitale de Publicis Groupe.
+
+L'équipe Data est composée d'une quinzaine de collaborateurs regroupant Data Scientists, Data Engineers, Data Analysts et Data Strategists, travaillant sur la co-construction d'outils générant de la valeur à... partir de la donnée de nos clients.
+
+Si vous aussi, vous partagez cette vision et souhaitez profiter et contribuer à notre communauté internationale sur le sujet, rejoignez-nous !
+
+Description du poste
+
+Vous interviendrez chez nos clients en travaillant à la mise ne place d’applications d’ingestion, de transformation et de valorisation de leurs données pour des projets décisionnels (BI), de data science/machine learning ou d’analytique opérationnelle.
+
+Pour cela, vous travaillerez étroitement avec les parties prenantes à la compréhension fonctionnelle de leurs projets au travers d’ateliers de spécification et de modélisation.
+
+Vous mènerez des études afin de concevoir, proposer et présenter les meilleures solutions pour mener à bien leurs projets. Enfin, vous développerez avec méthode et documentation ces projets jusqu’à leur industrialisation opérationnelle et le support nécessaire à la vie du produit.
+
+Force de proposition, vous travaillerez avec exigence de qualité, ouverture et bienveillance.
+
+En interne, vous contribuerez à la veille collective et à l’émulation commune lors de nos journées de partage, la rédaction d’articles ou à la participation de projets internes.
+
+Qualifications
+• Ingestion/Data Processing – Vous avez une expérience significative (>2 ans) dans le developpement d’applications d’extraction, transformation, chargement (E.T.L) sur des technologies de data processing, telles que Spark, kafka, avec des problématiques d’optimisations des performances, de modélisation et de stockage
+• Modélisation de données – Vous avez travaillé avec des utilisateurs de vos applications data, à la construction de spécifications et la modélisation des données qui découlent pour construire des applications fiables et répondant au mieux à leurs besoins et aux besoins futurs
+• Cloud : Vous avez une expérience sur un ou plusieurs provider(s) cloud et sa/leur stack data : AWS (S3, Glue, EMR, Athena, RDS, Kinesis, ...), GCP (Cloud Storage, Big Query, Pub/Sub, Big Table, Data Flow Data Proc, Cloud SQL, …), Azure (ADSL, Synapse, HDInsight, Stream Analytics)
+• Vous vous appliquez à rédiger du code de qualité, maintenable et évolutif, mettez en place des tests et êtes familier avec les principes d’automatisation, de CI/CD et de monitoring que vous appliquez et utilisez au quotidien
+• Vous maitrisez des technologies et outils tels que Snowflake, mongoDB, la suite ELK, dbt, Hadoop, des bases de données relationnelles et analytiques, Airflow, …
+
+Informations complémentaires
+• Une structure en croissance, avec une histoire forte et adossée à un groupe du CAC40 qui, par sa puissance, donne l’élan nécessaire à chacun pour se développer
+• Un environnement de travail multiculturel et international
+• Un accès à de nombreuses formations, certifications, e-learning accessibles gratuitement, coachings, communautés de pratiques
+• Une organisation de travail hybride (télétravail/présentiel)
+• Un plan de développement de carrière individualisé, suivi par un people manager
+• Des moments de rencontre (un séminaire et une soirée annuels, session d’intégration sur 4 jours, Halloween, Noël des enfants…).
+• Work your world : Une expérience unique, qui permet de travailler jusqu’à 6 semaines depuis n’importe quel pays où le groupe est présent à partir d’un an d’ancienneté
+
+Viva La Différence !
+
+Cette philosophie de Publicis Groupe témoigne depuis toujours de notre engagement pour la diversité et de la conviction que nos talents sont notre plus grande richesse et notre meilleur atout. Nous valorisons ainsi toutes les singularités, sans distinction d’âge, de sexe, de couleur de peau, d’origine sociale, de religion, ou d’orientation sexuelle… seules la compétence et l’énergie comptent. Nous encourageons toutes les candidatures qualifiées et seront ravis d’accompagner tout au long du processus de recrutement, de manière personnalisée une candidate ou un candidat en situation de handicap qui en ferait la demande. Publicis France est engagé pour l’égalité des chances et l’équité d’opportunités pour tous et toutes",2023-05-04
+1,Senior Data Engineer,via GitGuardian,"  Paris, France   ",GitGuardian,"What would you work on ?
+
+Context
+• Our products are a set of tools that scan GitHub public activity and git private repositories.
+• They are used by different teams: Software Development and Ops teams, Application Security, Threat Response and the buying decision comes from CISOs / CTOs / Directors of Security.
+• By design GitGuardian is a data driven company. Both co-founders are former Data Scientists and the first product of GitGuardian is real-time processing of all new GitHub events. Our secret detection engine has been battle tested against huge amounts of data.
+
+That’s why building data products that provide useful insights of the business is a key responsibility within our organization, your work will matter and will be taken seriously!
+
+...
+
+The existing team
+
+At GitGuardian, primarily two teams work on data: the Data Engineering Team and the Operations Team. The purpose of these two teams is to help all GitGuardian’s teams get knowledge and insights from data, in order to... create better products for our customers and improve our efficiency.
+
+The Data Engineering team is focused on building the Data Platform, and especially the company Data Warehouse. You will join a team of 3 passionate and dynamic people with different levels of seniority and you will report to the Lead Data Engineer.
+
+...
+
+Missions
+• Design, build and maintain the company's central Data Warehouse: infrastructure deployment, sources integration, pipeline development and optimisation, data documentation, data quality monitoring
+• Enrich the Enterprise Data Model by modeling business entities and events, designed to enable and support the highest levels of accuracy and quality for reporting and analytics
+• Stay up-to-date with the latest industry trends, technologies, and best practices in Data Engineering and contribute to the overall Data strategy and roadmap
+• Provide technical leadership, mentorship, and guidance to junior data engineers, including code reviews, best practices, and knowledge sharing
+• Implement data security and privacy best practices, including data encryption, data masking, and access controls, to protect sensitive data
+
+Advantages
+• You will create data features that bring high value to the business
+• You will be working on a cutting-edge technology for Cloud Data Warehouse
+• The data ecosystem is very diverse (Amazon RDS for PostgreSQL, Elasticsearch, MongoDB, various SaaS providers)
+• The Data Team builds and maintains its own infrastructure with high standards in terms of automation and IaC thanks to a close collaboration with the DevOps team
+• You will be part of a scale-up adventure with a strong engineering culture
+
+Our technical stack
+• Snowflake
+• PostgreSQL, Elasticsearch, MongoDB
+• Airbyte
+• Metabase, Tableau
+• GitLab
+• AWS, Terraform, Docker, Kubernetes
+
+...
+
+More about you
+
+If you think you are only matching 70% to 80% of these criterias, please send us your resume !
+And if you still have some questions before applying, you can directly write to us at : careers@gitguardian.com
+
+Hard skills
+• 5+ years of hands-on experience in designing, developing, and implementing complex data pipelines and ETL processes
+• Strong programming skills in one or more programming languages focused on data processing (Python, Scala …) along with skills in application best practices (code modularity, unit tests, documentation, etc)
+• Strong knowledge of data structures, Data Warehouse, data modelisation and structuration
+• Experience with cloud-based data platforms, and proficiency in using Cloud Data Warehouse such as Snowflake or BigQuery
+• Strong database and SQL skills, including experience with relational databases such as PostgreSQL, and familiarity with NoSQL databases, such as MongoDB or Elasticsearch
+• Affinity with Ops topics (CI/CD, monitoring, infrastructure, finops) and tools (Terraform, Ansible)
+• Experience with Data Visualization tools, such as Metabase or Tableau, is a plus
+• Familiarity with Machine Learning and Data Science concepts is a plus
+
+Soft skills
+• You like to analyze data and extract useful insights
+• You are above average in terms of rigor and autonomy, and you always check your results against expectations
+• You like to write high quality and re-usable code
+• You are autonomous, proactive and curious
+• You are a team player with strong communication skills
+• You are able to work in a fast-paced and dynamic environment, and adapt to changing requirements
+• You speak fluent French and English
+
+Bonus points
+• You don’t embed API keys in your code ;)
+• Deep understanding of the startups dynamics and challenges
+• Have experienced strong team growth in a previous company
+
+...
+Why should you join us?
+• 💰 Attractive package that includes stock-options
+• 🏡 Remote-friendly environment: up to 3 days/week for people living in Île-de-France, (almost) full-remote policy for people living elsewhere in France.
+• 💻 Home office allowance to improve your set-up at home, and the latest technology equipment
+• 🌴 Yearly holiday allowance
+• 🤝 Referral bonus of 4000€ for any new Guardians we might hire thanks to you
+• 🍺 Lots of team-building activities including 1 per month for the whole company
+• 🐕 Pet-friendly offices, every Guardian gets to bring their dogs
+• 👊 Working on a meaningful product, we already helped more than 300k developers!
+• 📈 A strong engineering culture, see this page to discover our R&D projects
+• 🚀 Many opportunities for career development in the long term
+• 👫 Trust & autonomy on your perimeter with a very transparent internal communication
+
+Recruitment process
+
+1 visio call with a recruiter
+
+To discover your professional project, present to you the team, and evaluate if there could be a mutual match
+
+1 technical interview with the Lead Data Engineer Alexis
+
+To evaluate your hard skills for the position and project yourself into the role
+
+1 technical test depending on your seniority
+
+To see how you are doing hands on coding
+
+1 final interview with the COO or the CEO
+
+To explain to you our company’s vision and ambitions to the next couple of years, and make sure you are up for the position
+
+Curious to know more about us ?
+
+GitGuardian is a global post-series B cybersecurity startup; we've raised $44M by the end of 2021 with American and European investors including top-tier VC firms.
+
+More than ever in 2023, we have a very solid business model with a fast-growing ARR, multi-year contracts and great customer retention rates.
+
+Investors
+• Among our early investors who saw our market value proposition, are the co-founder of GitHub, Scott Chacon, along with Docker co-founder / CTO Solomon Hykes 👀
+
+Products
+• We develop code security solutions for the DevOps generation and are a leader in the market of secrets detection & remediation.
+• Our solutions are already used by hundreds of thousands of developers in all industries and GitGuardian Internal monitoring is the n°1 security app on the GitHub marketplace 🔥
+
+Clients
+• GitGuardian helps organizations find exposed sensitive information that could often lead to tens of millions of dollars in potential damage.
+• We work with some of the largest IT outsourcing companies, publicly listed companies like Talend or tech companies like Datadog.
+• More than 80% of our customers are in the United States.
+
+People
+• The majority of the team is based in Paris and we are growing fast, and in a sustainable way, while maintaining our core values.
+• The Guardians are very knowledgeable, committed, serious, aligned with the company’s mission, and true team players : always willing to help pairs grow their skills !
+• The team is diverse, come from more than 12 different nationalities and speak English regularly.
+• We are also very agile, remote-friendly, pet-friendly 🐕 in the office, and fun people to work with",2023-05-02
+2,Senior Data Engineer,via SumUp,"  Paris, France   ",SumUp,"• **Applications in English***
+
+SumUp is a digital ecosystem dedicated to local entrepreneurs. Our range of solutions answers all our merchants' challenges; from reservations, through click and collect, deliveries and digital payment, to the management of their business thanks to intuitive and comprehensive financial analytics.
+
+As a (Senior) Data Engineer in the Global Data Team in Operations, you’ll play a key part in helping Operations build efficient and effortless Customer Support. You’ll be part of our central data team providing the infrastructure and automation that are the cornerstone of our merchant care strategy, allowing analysts and data scientists to derive value from data in a streamlined manner.
+
+Some of the tools and technologies used in the team:
+• AWS Cloud for all analytics backend infrastructure
+• Kubernetes for data science backend infrastructure
+• Airflow, dbt for data modelling and orchestration
+• Snowflake for data warehousing
+• Tableau for visualisation
+•... Python
+• Kafka for streaming data
+
+What you’ll do:
+• You will be part of our data team that creates the frameworks enabling all the teams at SumUp to ingest, transform, analyse and consume data at scale
+• Work closely with the data scientists, analytics engineering and data analysts in providing guidance and best practices on how to efficiently store, access, consume and expose data for their needs
+• Build and maintain the infrastructure for data scientists and analysts that allow them to deliver insights efficiently, effectively and with high-quality
+• Deploy machine learning models to automate and optimise the customer support processes
+• Work closely with the central platform team to set the standards for infrastructure and tooling within the tribe
+
+You’ll be great for this role if:
+• You are ideally degree educated in computer science, engineering or comparable work experience
+• You have a minimum of 3 years of experience in a similar role including Software development, ML engineering or Data engineering
+• You have a solid understanding about data structures, algorithms and problem solving around scalability
+• You are curious and interested in both batch and streaming data use cases, big data, data governance, data models, data insights - or all of the above!
+• You have solid Python and SQL skills
+• You have an understanding (and open to learn more) about testing strategies, DevOps, collaborative coding (pair/mob-programming)
+• You have experience in some or all of the following technologies: AWS, Airflow, Docker, Kubernetes, Kafka, Snowflake, Terraform, Github Actions, DBT
+• You have a working proficiency and communication skills in verbal and written English
+• You have the ability to build positive relationships with colleagues and multiple stakeholders across the business
+
+Why you should join SumUp:
+• We’re a truly global team of 3000+ people from 60+ countries, spread across 3 continents
+• We get together regularly for breakfasts, team events, office parties and sports
+• You’ll receive a budget for attending conferences and external training
+• We offer a corporate pension scheme, plus other great benefits
+
+Additional Information 💫
+• Start date: as soon as possible
+• Full-time
+• Work office location(s); Berlin or Paris
+• Remote working: Yes - need to be based in Location of a SumUp Office
+
+About SumUp
+
+We believe in the everyday hero. Those who have the courage to follow their passion and who have the strength and determination to realise their dreams. Small business owners are at the heart of all we do, so we're creating powerful, easy-to-use financial solutions to help them run their businesses. With a founders mentality and a 'team-first attitude' our diverse teams across Europe, South America, and the United States work together to ensure that small business owners can be successful doing what they love.
+
+SumUp is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. SumUp does not make hiring or employment decisions on the basis of race, colour, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable laws or prohibited by Company policy. SumUp also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.
+
+SumUp will not accept unsolicited resumes from any source other than directly from a candidate.
+
+Job Application Tip
+
+We recognise that candidates feel they need to meet 100% of the job criteria in order to apply for a job. Please note that this is only a guide. If you don’t tick every box, it’s ok too because it means you have room to learn and develop your career at SumUp",2023-05-02
+3,Data Engineer,via IQVIA,"  Courbevoie, France   ",IQVIA,"Data Engineer
+
+Location: Paris, France
+
+Context
+
+IQVIA, with its 65,000 employees worldwide, is the result of the merger between IMS and QUINTILES. IQVIA has built its leadership around data on pharmaceutical consumption in the city and in hospitals, giving its pharmaceutical customers a precise view of the dynamics of their market. IQVIA France has just created a business unit with 75 people to enrich our data offering and develop new AI driven web applications for our customers.
+
+Missions
+
+We are looking to strengthen the newly created R&D team to develop new offers and innovative Health applications for our B2B customers (pharmaceutical laboratories, pharmacists, practitioners). The current team of 15 engineers is composed of software engineers (front and back), data experts (data scientists, data architects) and is expected to keep consolidating in 2023. This team is closely linked to a team of 6 product managers.
+
+The mission of the R&D team includes:
+• Creation and maintenance... of data production pipelines (drug delivery data extrapolation models, Covid vaccination statistics in open data)
+• Creation of innovative access and analysis applications for these data
+• Design and production of algorithms to identify under-diagnosed populations of rare diseases from drug consumption data
+• Design and operation of support tools for other teams (in the form of dashboards for example) Technology watch (use of synthetic data in health algorithms)
+
+The Data Engineer will work with the R&D team and product managers on the development of innovative web applications and data production pipelines. As a member of the team, he/she will participate in many decisions regarding recruitment, choice of development stack, definition of the roadmap and many more
+
+Expected skills
+• Mastery of SQL and the PyData stack, strong data analysis skills
+• You love and you can quickly understand a complex data domain
+• Excellent writing skills for documentation and explanation of analytical results, good oral presentation skills
+• Good professional proficiency in French (written and spoken)
+• Good practice of coding within a team (version control, tests)
+• Good knowledge of agile methodologies (code reviews, continuous integration, Kanban)
+• Interest in training more junior profiles is a plus
+• Experience in the health domain is a plus
+
+Technical environment
+
+You will have the opportunity to choose the technical stack with the development manager.
+
+The team skills are as follows:
+
+Backend : SQL, Python
+
+Frontend : React, Redux, TailwindCSSa
+
+Infrastructure : Snowflake, Airflow, HDFS, Azure Cloud
+
+Deployment: Docker, Kubernetes
+
+Data science: PyData stack (pandas / scikit-learn / scipy)
+
+Software development tools: Git, Gitlab
+
+Knowledge of the following technologies is a plus: RabbitMq / Kafka, Elasticsearch
+
+Profile
+
+Engineering school or Master degree in data engineering or data science.
+
+At least two years of technical experience, in a startup or a software company.
+
+Location
+
+Remote work up to two days a week, most of the team is in the office three days per week.
+
+Tour D2, 17 bis place des Reflets, 92400 Courbevoie, Esplanade de la Défense
+
+We thank all applicants for their interest; however only those selected for interview will be contacted.
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximize their personal potential.
+
+#LI-nataliazewlakow
+
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.
+
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com
+
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com",
+4,Data Engineer Be Mo Tech,via WJHL Jobs,"  Paris, France   ",totalenergies,"Systèmes d'Information
+
+PARIS-RUE DES JEÛNEURS(FRA)
+
+France
+
+Description du poste
+
+En tant que Data Engineer, tu garantis la qualité des pipelines data du produit, tu assures le développement des programmes pour collecter, préparer, transformer et diffuser les données.
+Dans l'écosystème ultra dynamique des nouvelles mobilités (notamment électriques), en phase avec de grands enjeux sociétaux, nous attendons de toi que tu :
+Conçoives, construises et intègres des données au sein de la Squad et en collaboration avec les autres Squads.
+Assures le stockage, la consommation, l'intégration et la gestion des données des cas d'utilisation.
+Fasses l'analyse de l'analyse de l'accessibilité des données et que tu recommandes des solutions pour leur intégration.
+Coordonnes la mise en place, l'industrialisation et la maintenance de l'architecture data : infrastructure, cloud, flux de données. Tu intègres également les données dans le data lake.
+Collabores avec les data scientists pour la réalisation... des modèles de prédiction.
+Produises un code de qualité, mettes en place des tests automatisés et systématiques pour le contrôler.
+Interagisses avec les architectes et les autres Data Engineers pour s'assurer de l'efficacité des solutions et apporter des préconisations techniques.
+En parallèle, tu auras également des missions transverse. Pour ce faire, nous attendons de toi que tu :
+Assures la veille technologique sur les architectures data et les nouvelles technologies.
+Coaches et accompagnes la communauté des Data Engineers de la Digital Factory en participant au Communities of Practice (CoP) par exemple.
+
+Profil recherché
+
+Tu as une expérience d'au moins 4 ans en data engineering, tu es diplômé d'un master ou d'une école d'ingénieur spécialisée en informatique ou mathématiques.
+Et si tu as déjà une expérience dans l'écosystème de la mobilité, de la recharge électrique ou du digital fueling, c'est top !Les compétences qui sont attendues de toi en tant que Data Engineer :
+La maitrise de Python, Spark et SQL.
+Une bonne connaissance sur les bases de données relationnelles et non relationnelles.
+La capacité à concevoir et à mettre en œuvre des solutions de chargement, de manipulation, de traitement, d'analyse et d'exploration de données à grande échelle.
+Maîtrise des bonnes pratiques de monitoring des flux de données.
+Une bonne compréhension du machine learning.
+Une bonne connaissance des méthodes Agile (Scrum, Kanban, voir même SAFe ou Nexus).
+Une culture tech tu sais concevoir et modéliser une solution informatique.
+Si tu as toi-même de bonnes notions de développement, c'est un plus notable (stack technique : Cloud Azure ou AWS, C#, .Net).
+Une expérience avec les outils de gestion de Backlog comme Jira ou Azure DevOps. Si tu en connais plusieurs, c'est encore mieux.
+Une première expérience sur un provider de Cloud, AWS de préférence.
+
+Réfèrence
+
+71991BR
+
+Métier
+
+'Systèmes d'Information Métiers
+
+Région, département, localité
+
+75 - Paris
+
+Type d'emploi
+
+CDI
+
+Niveau d'expérience requis
+
+Minimum 6 ans
+
+Branche
+
+TotalEnergies Global Services
+
+A propos de nous/Profil de l'entreprise
+
+TotalEnergies est une compagnie multi-énergies mondiale de production et de fourniture d'énergies : pétrole et biocarburants, gaz naturel et gaz verts, renouvelables et électricité. Ses collaborateurs s'engagent pour une énergie toujours plus abordable, propre, fiable et accessible au plus grand nombre. Présent dans plus de 130 pays, TotalEnergies inscrit le développement durable dans toutes ses dimensions au cœur de ses projets et opérations pour contribuer au bien-être des populations",2023-05-05
+5,Digital Factory - Data Engineer (M/F),via SmartRecruiters Job Search,"  Saint-Maurice, France   ",Veolia Environnement SA,"Company Description
+
+Come work for a leading company in environmental services, within a Digital Business Unit with a start-up atmosphere, which builds innovative solutions implementing new technologies!
+
+The Veolia Group is the world leader in environmental services, at the cutting edge of #EcologicalTransformation.
+
+Veolia Water Technologies (VWT), a subsidiary of the Veolia group, is the leading specialist in water treatment. Our teams design and deliver products and technologies for waste/drinking water treatment plants as well as smaller standardised water treatment equipment for a wide range of industrial customers. VWT also offers many added-value services around digital, auditing and maintenance.
+
+HUBGRADE™ is a portfolio of high value-added digital services such as remote monitoring, performance optimization algorithms, AI-based services, remote assistance, and auto-piloting.
+
+We manage HUBGRADE™ in a product-oriented organisation, with a Product Development team, a Business... Development team, and a Digital Factory.
+
+The platform is entirely built on AWS, using modern IIoT / web / data / ML services, serverless architectures, with a high level of automation and resilience.
+
+We constantly need to bring improvements and new features based on Customers needs, while operating efficiently the platform and guarantee high availability.
+
+To ensure that our product roadmap is executed successfully, we are seeking an experienced and dynamic data engineer, with a DevOps mindset, to complement our data science capabilities.
+
+Job Description
+
+We are looking for an experienced data engineer to join our team on this fantastic journey, working together to ensure that our customers get the best experience possible.
+
+We have a huge potential for analytics and machine learning, based on our IoT and enterprise data, which require solid data engineering.
+
+Your work will have very concrete outcomes and observable value.
+
+You will be fully integrated into the development team, which is organised in an Agile Scrum fashion, and with an excellent team spirit.
+
+You will:
+• Design, develop, and test data pipeline infrastructures and database systems
+• Collaborate with data analysts and data scientists to build and improve data models, algorithms and predictive models according to the busines’s requirements
+• Ensure that all current data infrastructures and processes meet industry standards
+• Utilise cutting edge data engineering technologies and software
+• Search for elements of the data collection and processing that need improvement, and improve them
+• Implement systems to monitor data quality for optimised accuracy and clarity
+• Design and implement scalable and high-performing solutions
+• Collaborate with several other teams: Product and Business Development teams for HUBGRADE, Corporate IS&T teams (Data Lake, Cybersecurity, ERP, Networking, FinOps, …), external Digital Partners.
+• Continuously transfer knowledge to the Run&Support team
+• Take part in L3 support
+• Identify synergies between software components and improve efficiency of development and code maintenance
+• Keep the product vision in mind while working on details
+• Help to build flexible, future-proof solutions
+• Continuously improve our agile development process, architecture, and engineering practices
+• Mentor and coach less experienced engineers on the team
+
+The platform being very rich and diverse, you will have the opportunity to work on different areas and projects.
+
+Qualifications
+
+Education & Experience
+• Bachelor's degree in Computer Science
+• 5+ years of experience in software development or data-related fields (DWH, …), with at least 2 years in pure data engineering / big data, using modern programming languages, frameworks, and technologies
+• Experience working in an agile cross-functional team
+
+Technical skills
+• Skilled with Git, Python or R, Big Data frameworks (especially Spark)
+• Skilled with relational and NoSQL databases
+• Skilled with data modelling and popular data viz tools
+• Fully operational on public Cloud technologies, especially AWS and its managed services (Glue, Kinesis, Athena, Lambda, IoT Core, EventBridge, …)
+• Fully operational on Agile practice
+• Familiar with event-driven architectures
+• Familiar with automation and IaC tools (CI/CD, Terraform, AWS SAM)
+• Familiar with enterprise tools, such as ServiceNow and GitLab
+• Good understanding of IoT, Web development, Data Lake, and Machine Learning domains
+
+Soft skills
+• Fluent in English and French
+• Good communication skills
+• Able to work in a multicultural environment
+• Technology minded
+• Able to quickly skill up on any technology or business topic
+• Passion for quality
+• Innovative state of mind
+
+Additional Information
+
+As an inclusive company, Veolia is committed to diversity and gives equal consideration to all applications, without discrimination",2023-05-05
+6,Machine Learning Data Engineer,via Lever,"  Paris, France   ",Outrider,"The company
+
+Outrider is a software company that is automating distribution yards with electric, self-driving trucks. Our system eliminates manual tasks that are hazardous and repetitive while it improves safety and efficiency. Outrider’s mission is to drive the rapid adoption of sustainable freight transportation. We are a private company founded in 2018 and backed by NEA, 8VC, Koch Disruptive Technologies, and other top-tier investors. Our customers are Fortune 200 companies and our autonomous trucks are already running in distribution yards. For more information, visit www.outrider.ai
+
+The role
+
+Outrider is an ambitious company that aims to solve autonomous vehicles for yard/warehouse operation. We are developing a specialized autonomy platform for 3rd-party electric trucks that enables complex maneuvers in huge warehouse parking lots, among traffic, people, and other complex settings. This is not your generic autonomous vehicle product: we have a specific setting, specific... hardware, and specific customers.
+
+We have great financial backing, a clear product in mind, and a highly competent engineering team. We're expanding the team with world-class machine learning & data engineering members.
+
+Now is a time of rapid growth for machine learning usage at Outrider, and to support these exciting projects, a new ML Perception Data team has formed. We are scaling our data collections 100x and increasing the number of projects with plenty of ML solutions . If you enjoy getting in early and having a large impact, this is a great spot to be!
+
+We are building a Data Engine by which we will monitor model performance, identify weak points, source data to fill performance gaps, train, and repeat. If laying the foundation for and building critical new pieces of this overall system sounds exciting, come and join us!
+
+What you will be working on
+• Collaborate with the Sensors & Integration and Machine Learning teams to ensure we are collecting the right data to meet solution needs
+• Build both local and cloud-hosted robust ETL processes
+• Build and maintain cloud infrastructure for ML model training
+• Build and host services for ML data storage, search, and visualization
+• Integrate our systems with 3rd-party services in the ML space, where needed
+• Design and build systems for hard/rare example mining to improve training datasets
+
+Skills/Background
+• Intermediate or higher (at least 3 years in software development)
+• Excellent understanding of and experience in AWS/Azure/GCP (ideally AWS) cloud environments
+• Competent with Python
+• Competent with Docker
+• Comfortable with SQL
+• Clear and crisp communicator
+• Previous experience with production ML systems, infrastructure as code (Terraform, Pulumi, Cloudformation, etc.), database maintenance, web application development (front or back end) would be nice to have
+
+#LI-Remote
+
+At Outrider, we believe in cultivating an environment where there is diversity of perspectives, experiences, and knowledge with the expectation that we thrive in an inclusive environment. Outrider is committed to a workforce where everyone's opportunities are limitless regardless of race, national origin, gender, age, religion, disability, veteran status, or any others that are protected by law.
+
+To protect yourself against the increasing number of recruiting scams, please make sure that you are communicating with Outrider Technologies, Inc. or one of its employees. The only way to communicate with us is through our corporate website at www.outrider.ai, through corporate emails utilizing our domain name of @outrider.ai, and through our job board at jobs.lever.co/outrider. Be vigilant when checking domains because imitators often make very small changes to trick the eye. Additionally, please know that Outrider does not use text messaging or public messaging platforms, such as Telegram or Whatsapp, to communicate with candidates and Outrider will never ask an employment candidate for financial information or for payment of any kind",2023-05-02
+7,Senior Data Engineer,via TheFork Job Opportunities,"  Paris, France  (+ 1 autre)    ",TheFork,"Senior Data Engineer
+
+Welcome to our fabulous world. 🍴We are TheFork. Our mission is to bring happiness through amazing dining experiences, thanks to our 3 main products :
+
+📱 TheFork App : the restaurant discovery and booking app for every occasion
+
+🖥️ TheFork Manager : the tool to digitize restaurant operations and be in full control of your business
+
+💳 TheFork Pay & gift cards : the new and amazing dining payment experience
+
+Creator of a unique model that disrupted the restaurant industry 15 years ago, we are now the leading dining platform across Europe and Australia. We are experiencing an exciting period of growth, and we need the greatest folks onboard. Together, we will make our wildest dreams come true! We strongly believe that our mission can only be achieved if we also bring happiness to our working environment. We do this by providing a flexible, multicultural  and positive environment where each individual has the space to grow.
+
+We nurture this happy culture through... our core values: We are better together -  We act like an owner - We genuinely care for our users and customers - We believe in transparency - We never stop learning - Speed wins
+
+Oh! And we are also part of the big Tripadvisor family ❤️
+
+With love,
+
+Your future buddies, the Forkies.
+
+Thanks to TheFork (app/web), millions of diners can easily discover, book and pay the right restaurant at the right price. Thousands of restaurants owners benefit from our solutions to optimise their booking management, streamline operations and ultimately improve service and boost revenue.
+
+To support our growth, we are reinforcing our data platform team and are looking for a Data Engineer.
+
+Why join us?
+• You are passionate about data and comfortable in an international and agile environment?
+• You are ready for the challenge of a SaaS service for several thousand customers and B2C interfaces for millions of users?
+• You are ready to invest in a company whose entire service is subject to heavy use and is present in close to 20 countries, to accompany its rapid growth?
+• You want to secure services that power the leader of online restaurant booking?
+• You will join a dynamic and agile team in a quickly changing environment. You will be involved in an international organization that empowers its employees, cares about their career and values sharing.
+
+What you will do :
+
+As a Senior Data Engineer, your mission will be to build & expand theFork Data Platform as a top end and modern platform to deploy advanced analytics and data products for the whole company.
+
+The data platform is used intensively by all teams at theFork (date, product, engineering, business, .. ) supporting multiple domains (BI, Data Insights, Products Analytics, Data Science).
+
+We recently decided to follow the Data Mesh approach and have started to lay down good foundations for a self-service platform.
+
+If you want to be part of a very modern data transformation project, sponsored at the codir level, do not hesitate to apply
+
+You will report to our Data Engineering Manager and be part of the central data team composed of 40 people, and still growing.
+
+Your daily work will consist of:
+• Designing and build efficient patterns to store and analyze Terabytes of data
+• Defining and implementing the best way to progress towards a Data Mesh architecture
+• Implementing complex acquisition and transformation workflows
+• Building smart data models to serve our product teams and our BI, Insights and data science teams while minimizing the costs
+• Developing and implementing tools to help our data scientists industrialize machine learning projects
+• Working on data quality & reliability to ensure we provide trustable metrics to the whole company
+• Supporting our data engineering manager and accompanying more junior data engineers
+
+Who you are:
+
+The Data platform tech stack is built on AWS (S3, EC2, EMR) and Snowflake using some open source technologies such as Airflow, Spark, Jenkins, Elasticsearch, Docker, Kubernetes, etc...
+
+With a minimum 5 years of experience, you have a perfect knowledge of data engineering patterns, technologies and are proficient in python (ideally with several other backend languages and are well versed in software development best practices, such as CI/CD, unit testing, QA and mocks creation ..).
+
+Backend dev profiles are also welcome, if you have at least 5 years of experience in backend development and 2 years in data-engineering.
+
+As a senior data engineer, your role will also be to guide the team towards improved patterns, processes and technologies, and help define the evolution path towards a Data Mesh.
+
+We will appreciate a large data culture and curiosity for any new technologies.
+
+Qualifications
+• You have at least 5 years of data engineering experience OR 5 years as a backend developer + 2 years in data-engineering
+• You are a great team player and at ease to interact with technical and business stakeholders
+• You are used to work in an agile environment & OK with priorities changes
+• You are curious, humble and exhibit a balance between creativity and pragmatism
+• You are willing to learn and teach others
+• You have a proficiency in French and English (written and spoken)
+
+Technical skills
+• * Mastery of SQL and Python
+• Snowflake
+• Apache Airflow
+• Infrastructure knowledge, AWS, Docker, Jenkins and Kubernetes appreciated
+• Proficient with git and unix
+• Streaming technologies (CDC pipelines, stream processing, ...)
+• AWS Sagemaker, Databricksvand Google BigQuery are a plus
+
+What we offer you:
+• 😄 An awesome team (not everybody like our jokes, but we try our best)
+• 🏠 A Permanent contract (that can be useful in life)
+• ⚖️ Flexible working environment (2 days home office per week)
+• 💸 Competitive fixed salary, bonus and equity (yes, equity!)
+• 🍕 Lunch vouchers available for each working day (because yes, we like to try our best restaurants)
+• 🌎 International teams - More than 30 nationalities and 16 offices worldwide
+• 🏳️‍🌈 Highly inclusive working environment
+• 🤸‍♀️ Lifestyle benefits that can be used to reimburse physical, leisure activities, family support, travel etc
+• 🎓Continuous learning and development programs (with full access to LinkedIn Learning!)
+• 😌 Free access to the Calm app
+• 🏥 Health insurance fully covered by the company
+• 👩‍🦽 Life Insurance and Disability at no cost to the employee
+• 💗 Welfare allowance school costs, elderly care, babysitting costs, transportation, travel leisure
+• 🍴 Amazing offices with dining, coffee point on each floor, and leisure area
+• 🎤 Team building events (we love karaoke. A lot. A lot.)
+
+We believe that we are better together, and at TheFork we welcome you for who you are.  Our workplace is for everyone, as is our people powered platform.  At TheFork, we want you to bring us your unique perspective and experiences, so we can collectively keep disrupting the restaurant industry and go from good to great.
+
+#LI-CT1",
+8,Data Engineer,via Startup Jobs,"  Paris, France   ",Inato,"WHO WE ARE
+Inato is a Tech for Good company striving to bring clinical research to each and every patient, regardless of who they are or where they live. To do this, we are building the world's first clinical trial platform to create greater visibility, access, and engagement across a more diverse population of doctors and their patients.
+
+Drug development is a challenging, intellectually complex, and rewarding endeavor: we enable global pharmaceutical companies to confidently partner with community-based researchers to increase patient access to the latest medical innovations. The platform currently offers clinical trials from leading companies to over 1,000 sites across the globe. And we are well poised for growth in 2023.
+
+We are a growing team of passionate pharmaceutical experts, software engineers, professional services members, and many more - all bringing their unique perspective to solve the challenges facing clinical research.
+Our team members live by our company values to... be bold, resilient, caring, and pragmatic.
+If this sounds like you, join us!
+
+The role
+We are seeking an experienced Data Engineer to join our fast-growing data team.
+In this role, you will play a critical part in helping us build a scalable data infrastructure that supports the data team's mission to provide high-value analysis and tools to Inato’s team so they can make faster and better data-driven decisions.
+
+This is an exciting opportunity to make a meaningful impact in a small and dynamic team that is changing the face of the industry.
+Our stack includes Google BigQuery, Segment, Airbyte, Looker Studio, Husprey, Retool, dbt, MixPanel, and more.
+💊 Responsibilities
+
+• Design, build and maintain our data pipelines and infrastructure to ensure efficient and reliable data ingestion and processing.
+• Collaborate with the Data and Product team to expose data to the product and implement machine learning models into production.
+• Monitor and troubleshoot our data infrastructure to ensure maximum uptime and performance.
+• Work with cross-functional teams to ensure data availability, quality, and consistency across the organization.
+
+💊 Requirements
+
+• 3+ years of experience in data engineering, with experience in building and maintaining data pipelines at scale.
+• Strong experience with data processing languages such as Python and SQL.
+• Experience with database technologies such as PostgreSQL.
+• Familiarity with cloud-based data infrastructure and storage, preferably GCP.
+• Experience with ETL/ELT tools such as Airflow, Segment, Airbyte
+• Familiarity with infrastructure tools such as Terraform, and Kubernetes.
+
+💊 Perks
+
+• Remote-first philosophy & flexible hours
+• Amazing office in Grands Boulevards, Paris where you can meet with colleagues if this is important for you
+• Top-of-the-line equipments
+• Compensatory time (RTT)
+• Free health insurance (Alan Blue, 100% paid by Inato)
+• Meal vouchers (Swile)
+• Contribution to healthy activities (Gymlib)
+• Free books & learning material
+
+Inato is an Equal Opportunity Employer for any minority, disability, gender identity, or sexual orientation",2023-04-08
+9,Cloud Data Engineer (H/F/NB),via Keyrus France,"  Levallois-Perret, France   ",Keyrus France,"Qui sommes-nous ? Une success story dans la Data et le Digital !
+
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 25 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+• Data Intelligence
+
+Business Intelligence, Big Data & Analytics, Intelligence Artificielle
+• Digital Experience
+
+Conseil, Stratégie & Performance Digitales
+• Conseil en Management & Transformation
+
+Stratégie & Innovation, Pilotage de la Performance & Accompagnement des Projets
+
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+
+Qui êtes-vous ?
+• Vous disposez d’un profil Ingénieur Informatique (BAC +5) et avez déjà réalisé des projets ou missions en tant que Data Engineer sur le cloud Microsoft Azure
+• Vous avez utilisé les services managés sur Microsoft Azure pour gérer l’ingestion et... la transformation des données (Azure Data Factory, Synapse, Azure Functions, Events Hub, Storage Account, SQL Database, Azure DataWarehouse, etc.)
+• Vous maitrisez les chaines CI/CD et vous adoptez la culture DevOps
+• Vous êtes capable d’optimiser des flux déjà en place sur Microsoft Azure.
+• Vous maitrisez les bases de données SQL / NoSQL
+• L’écosystème Hadoop (HDFS, Pig, Hive, Sqoop, Flume,…), Spark ou encore Elasticsearch sont n’ont pas de secret pour vous.
+• Vous maitrisez les langages : Java, C++, Python, Shell, Scala et GO
+• Vous maitrisez les environnements Linux ou UNIX ;
+• Vous êtes autonome et vous devez être capable de construire des pipelines de données, d'avoir une expérience en production et en maintenance applicative.
+• Vous avez déjà programmé en Scala ou travaillé sur des algorithmes de Machine Learning (Azure ML)
+• Vous êtes certifiés sur les stacks Microsoft Azure
+
+Avoir travaillé sur plusieurs cloud (GCP, AWS) serait apprécié.
+
+Quelles seront vos missions ?
+
+Au sein de l’une de nos Business Unit de Conseil, d’Expertise, de Delivery et de services autour de la Data, vous intègrerez une équipe de 200 Data Specialists (Data Engineer, Big Data, Data Scientists, Data Analytics, DevOps, CloudOps, Data Architecte…), capables d’accompagner nos clients dans la mise en œuvre d’une stratégie data cloud globale.
+
+Vous interviendrez sur les sujets suivants :
+• Conception et mise en œuvre de plateformes basées sur des technologies Azure;
+• Conception et mise en œuvre de flux d’intégration (mode batch ou temps réel) de données structurées/non structurées et volumineuses ;
+• Optimisation technique et fonctionnelle en termes de performance et de qualité logicielle ;
+• Transfert de compétences et animation de formations ;
+• Préconisation d’outils et/ou technologies et veille technologique continue.
+• Recommander, mettre en œuvre et industrialiser les solutions les plus adaptées et performantes embarquant les solutions de Microsoft Azure auprès de nos clients
+• Participer à la conception et à la mise en œuvre des meilleures solutions technologiques et méthodologiques afin de servir les cas d’usages DATA et IA de nos clients.
+
+Pourquoi nous rejoindre ?
+• Intégrer et participer à l’animation d’une communauté d’experts curieux et passionnés ;
+• Bénéficier d’un suivi et d’un management de proximité ;
+• Evoluer dans un environnement multiculturel et favorisant la mobilité internationale et le télétravail à hauteur de 2 jours par semaines ;
+• Vous former via notre plateforme MyKLX, proposant un large catalogue de formations certifiantes ainsi que des accès aux plateformes éditeurs;
+• Participer à l’animation d’une communauté, aux différents afterworks, …etc.
+• A travers une Mission Santé-Handicap dédiée, Keyrus déploie une politique de recrutement et met en place un environnement Handi-accueillants. Tous nos postes sont ouverts aux personnes en situation de handicap ;
+• Keyrus a été classé dans le palmarès Le Point « Les entreprises les plus responsables de France 2022 » sur la base d'indicateurs dérivés, entre autres, de rapports sur la RSE",2023-05-04

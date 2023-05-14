@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import logging
+import configparser
 
 
 class Linkedin():
@@ -16,7 +17,7 @@ class Linkedin():
         usernameBar.send_keys(user)
         passwordBar = driver.find_element("id", "password")
         passwordBar.send_keys(mdp)
-        btn = driver.find_element_by_xpath(
+        btn = driver.find_element("xpath",
             '//*[@id="organic-div"]/form/div[3]/button')
         btn.click()
         return driver
@@ -56,7 +57,7 @@ class Linkedin():
             try:
                 jobDescription = BeautifulSoup(
                     driver.page_source, 'html.parser').find(id="job-details")
-                job['summary'] = jobDescription
+                job['summary'] = jobDescription.text
             except:
                 continue
         return JobCollector
@@ -87,3 +88,10 @@ class Linkedin():
         JobCollector = self.getDescriptionLinkedIn(email, mdp, JobCollector, driver)
 
         return JobCollector
+
+    def loginInfoLinkedIn(self):
+        config = configparser.ConfigParser()
+        config.read("./config/logininfo.config")
+        email = config["LinkedIn"]["user"]
+        mdp = config["LinkedIn"]["pwd"]
+        return email,mdp
